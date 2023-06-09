@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html {background-color: ;}
+        h1 {
+            text-align: center;
+            background-color: gray;
+            border: 10px solid gray;
+            margin: 0%;
+        }
+        h2 {
+            text-align: center;
+            background-color: gray;
+            border-top: 0px solid gray;
+            margin-bottom:  0.2%;
+            margin-top: 0;
+        }
+    </style>
+</head>
+<body>
+     <h1>Wanneer je in je spaarpot kijkt, en denkt</h1> 
+    <h2>Hoe kan dit nou toch jongens!</h2>
+    <img src="https://storage.pubble.nl/350eaab2/content/2019/9/9b3e4e94-243b-4de4-86ce-739f67759e8a_thumb1920.jpg" alt="Roelant jonge" width="100%">
+
+    <img src="https://i.redd.it/c98nainkdy4b1.png" alt="Roellll" width="100%">
+
+    <img src="https://i.redd.it/0f0t8yy2ey4b1.png" alt="mil en roel" width="100%">
+
+    <img src="https://i.redd.it/kh0hus0qdy4b1.png" alt="roelltje" width="100%">
+</body>
+</html>
